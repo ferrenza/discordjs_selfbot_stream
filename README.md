@@ -12,8 +12,8 @@ recommended use node version v20.11.1 and npm version 10.4.0
 * run bot use node main.js
 
 
-[commands]
+[commands]<br />
 $play-live <link> (play video with go live)<br />
 $play-cam <link> (play video with webcam)<br />
-$disconnect (leave voice channel)\n
+$disconnect (leave voice channel)<br />
 $stop-stream (stop the stream)
