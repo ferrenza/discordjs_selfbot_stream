@@ -13,7 +13,7 @@ recommended use node version v20.11.1 and npm version 10.4.0
 
 
 [commands]<br />
-$play-live <link> (play video with go live)<br />
-$play-cam <link> (play video with webcam)<br />
+$play-live (url) (play video with go live)<br />
+$play-cam (url) (play video with webcam)<br />
 $disconnect (leave voice channel)<br />
 $stop-stream (stop the stream)
