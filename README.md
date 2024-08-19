@@ -1,6 +1,17 @@
-# discordjs_stream
+<div align="center">
+  <br />
+  <p>
+    <a href="https://discord.js.org">
+      <img src="https://discord.js.org/static/logo.svg" width="546" alt="discord.js" />
+    </a>
+  </p>
+</div>
 
-recommended use node version v20.11.1 and npm version 10.4.0
+### Discord JS Selfbot Stream
+
+## 💡 Recommended Setup
+- **Node.js**: v20.11.1
+- **npm**: v10.4.0
 
 * apt install ffmpeg
 * npm install discord.js-selfbot-v13@latest
